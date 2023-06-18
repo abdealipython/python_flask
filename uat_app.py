@@ -3,7 +3,7 @@ from flaskext.mysql import MySQL
 
 app = Flask(__name__)
 
-myhome="HOME PAGE!Version3"
+myhome="HOME PAGE!Version4"
 
 
 @app.route("/")		#http://127.0.0.1:5000
